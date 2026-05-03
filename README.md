@@ -14,7 +14,7 @@
 
 ## What is MoleAPI?
 
-[MoleAPI](https://www.moleapi.com) is an open-source AI API gateway that gives you a **single, unified OpenAI-compatible endpoint** to access all major large language model providers — OpenAI, Anthropic, Google, and more. Stop juggling multiple SDKs, keys, and billing dashboards: MoleAPI brings them all together.
+[MoleAPI](https://www.moleapi.com) is an open-source AI API gateway built on top of [new-api](https://github.com/QuantumNous/new-api) that gives you a **single, unified OpenAI-compatible endpoint** to access all major large language model providers — OpenAI, Anthropic, Google, and more. Stop juggling multiple SDKs, keys, and billing dashboards: MoleAPI brings them all together.
 
 > **Base URL:** `https://api.moleapi.com/v1`
 
